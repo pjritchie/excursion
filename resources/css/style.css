@@ -1,0 +1,16 @@
+*{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+.header h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.downloadLink a{
+  color: Aquamarine;
+  font-weight: 16px;
+}
