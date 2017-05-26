@@ -14,3 +14,19 @@
   color: Aquamarine;
   font-weight: 16px;
 }
+
+body h2{
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+p{
+  font-size: 21px
+  color: Gray;
+  color: white;
+}
+
+.copyright p{
+  text-align: right;
+}
